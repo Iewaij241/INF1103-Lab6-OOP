@@ -1,20 +1,18 @@
 [
     {
-        "product_id": "P001",
-        "name": "Laptop",
-        "price": 1200.0,
-        "stock": 15
-    },
-    {
-        "product_id": "P002",
+        "product_id": "P1103",
         "name": "Mouse",
-        "price": 25.5,
-        "stock": 40
+        "price": 300.0,
+        "stock": 10000,
+        "type": "physical",
+        "weight": 2.0
     },
     {
-        "product_id": "P003",
-        "name": "Keyboard",
-        "price": 50.0,
-        "stock": 20000
+        "product_id": "E1233",
+        "name": "Book",
+        "price": 100.0,
+        "stock": 300000,
+        "type": "digital",
+        "download_size": 800.0
     }
 ]
